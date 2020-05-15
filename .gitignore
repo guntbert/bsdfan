@@ -1,0 +1,8 @@
+*.o
+*.swp
+.depend
+bsdfan
+bsdfan.1.gz
+bsdfan.debug
+bsdfan.full
+
